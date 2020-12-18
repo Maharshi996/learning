@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\djvs",
+    "\\djvsapp",
+    "\\djvs\\static",
+    "\\djvs\\static\\css",
+    "\\djvs\\static\\images",
+    "\\djvs\\templates",
+    "\\djvs\\templates\\testApp"
+  ],
+  "SelectedNode": "\\djvs\\urls.py",
+  "PreviewInSolutionExplorer": false
+}

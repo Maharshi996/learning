@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-image:url('images/torn_paper.jpg');
+    color:black;
+}
+p{
+    font-family:sans-serif;
+    font-size:18px;
+}
