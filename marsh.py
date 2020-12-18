@@ -6,8 +6,6 @@ elif admin == "ravi":
 elif admin == "kumar":
 	print("welcome team mate2")
 else:
-<<<<<<< HEAD
 	print("who are you and fuck off")
-=======
-	print("who are you")
->>>>>>> practice
+
+	
